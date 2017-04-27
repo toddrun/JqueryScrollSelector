@@ -7,5 +7,7 @@ This is a jquery plugin that allows creating a scrolling selector
   3) Set the values of the scroller with:
       $("#somescrollername").scrollSelector(["string", values", "for", "selection"])
 
-Requires Bootstrap V4
+Requires JQuery, Tether and Bootstrap V4. 
 Make sure each scroller (or your body tag) uses position: relative
+
+See [this fiddle](https://jsfiddle.net/toddrun/ppsyt928/) for a demo and more detailed usage
